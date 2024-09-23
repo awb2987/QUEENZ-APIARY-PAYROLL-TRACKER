@@ -13,6 +13,7 @@
 - [Future Improvements](#future-improvements)
 - [Acknowledgements](#acknowledgements)
 - [Screenshot](#screenshot)
+- [Links](#links)
 
 ## Overview
 
@@ -81,3 +82,8 @@ Thank you for the feedback and advice provided on previous assignments. This has
 ![Queenz-Apiary-Payroll-Tracker top of page](./assets/images/Screenshot%20of%20the%20top%20of%20the%20web%20app.png)
 ![Queenz-Apiary-Payroll-Tracker added functionality](./assets/images/Screenshot%20of%20added%20functionality.png)
 *Screenshot of the Employee Payroll Tracker in action.*
+
+## Links
+
+- [GitHub Repository](https://github.com/awb2987/queenz-apiary-payroll-tracker)  
+- [Deployed Page](https://awb2987.github.io/Queenz-Apiary-Payroll-Tracker/)
