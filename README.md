@@ -61,3 +61,9 @@ The purpose of this app is to provide users with a straightforward way to log an
 ## Acknowledgements
 
 Thank you for the feedback and advice provided on previous assignments. This has been taken into account to improve documentation and development practices.
+
+## Screenshot
+
+![Queenz-Apiary-Payroll-Tracker top of page](./assets/images/Screenshot%20of%20the%20top%20of%20the%20web%20app.png)
+![Queenz-Apiary-Payroll-Tracker added functionality](./assets/images/Screenshot%20of%20added%20functionality.png)
+*Screenshot of the Employee Payroll Tracker in action.*
