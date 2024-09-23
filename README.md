@@ -1,5 +1,19 @@
 # QUEENZ APIARY PAYROLL TRACKER
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Variables](#variables)
+- [Outputs](#outputs)
+- [Purpose](#purpose)
+- [Notes](#notes)
+- [Usage](#usage)
+- [Future Improvements](#future-improvements)
+- [Acknowledgements](#acknowledgements)
+- [Screenshot](#screenshot)
+
 ## Overview
 
 The Employee Payroll Tracker is a tool designed to help users manage and track employee payroll information. Users can add employee details, and the tool provides functionality to display and sort this information, as well as compute aggregated data.
